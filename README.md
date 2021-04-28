@@ -1,5 +1,5 @@
 ## Identifying personal attacks in Wikipedia comments
-Based on a baseline strawman code, this project aims to improve the accuracy score by trying out different machine learning models.
+Based on a baseline strawman code, this project aims to improve the accuracy score by trying out different classifier models.
 
 ### Preprocessing
 Before any "learning", let's clean up the text data a little bit!
