@@ -1,4 +1,4 @@
-## Identifying Personal Attacks In Wikipedia Comments
+## Identifying Personal Attacks in Wikipedia Comments
 Based on a baseline strawman code, this project aims to improve the accuracy score by trying out different classifier models.
 
 ### Preprocessing
